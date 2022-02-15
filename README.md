@@ -37,7 +37,7 @@ To see your pomi-points, use `.pomi`
 Last but not least, you can set a timer (sounds like a little wannabe) by using like `.time 30m`
 But she can reverse count from 1800, that's why max. time is 30 minutes.  
 
-Do not forget to say "good girl" her! :hand_over_mouth:	
+Do not forget to say "good girl" to her! :hand_over_mouth:	
 
 ************************************************************************
 
