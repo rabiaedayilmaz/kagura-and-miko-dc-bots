@@ -121,10 +121,12 @@ def get_current_time_api():
 def midnight_dm():
     # dm motivate
     letsgo = False
+    count_for_spam = 1
     h, m, s = get_current_time_api()
     if int(h) == 23 or int(h) == 0:
         letsgo = True
-    return letsgo, random.choice(mid_msg_list)
+        count_for_spam = 0
+    return letsgo, random.choice(mid_msg_list), count_for_spam
 
 def reminder(remind_hour, remind_min):
     h, m, _ = get_current_time_api()
@@ -148,7 +150,7 @@ class MikoBot(client):
         self._user1, self._user2 = _user1, _user2
         self.pomi_user_1, self.pomi_user_2 = pomi_user_1, pomi_user_2
         if midnight_dm() != None:
-            self.letsgo, self.mi = midnight_dm()
+            self.letsgo, self.mi, self.count_for_spam = midnight_dm()
 
 
     async def on_ready(self):
