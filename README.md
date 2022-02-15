@@ -29,7 +29,7 @@ She likes to be organized and for each user:
 To clear list:  
 * Just clear reminder list by `.clear r`  
 * Just clear task list by `.clear t`  
-* Or all of them :broom: by `.clear all`  
+* Or all of them by `.clear all` :broom: 
 
 She tracks your activities on to-do-list channel and for every entry, you will gain 5 pomi-points!  
 To see your pomi-points, use `.pomi`  
