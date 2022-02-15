@@ -26,11 +26,10 @@ class kaguraClient(cli):
         self._user1_session = 0
         self._user2_session = 0
         self.motivation_emojis = [
-                                  "\U0001F525", "\U00012728", "\U0001F98B",
+                                  "\U0001F525", "\U0001F98B", "\U00002622",
                                   "\U0001F308", "\U0001F49B", "\U0001F5A4",
                                   "\U0001F49C", "\U0001F4AA", "\U00012714",
                                   "\U0001F47E", "\U0001F4AF", "\U0001F91F",
-                                  "\U00002622",
                                   ]
         self._user1 = _user1
         self._user2 = _user2
