@@ -1,8 +1,8 @@
 # kagura-and-miko-dc-bots
-Kagura and Miko sisters are my original characters and the purpose of these sisters is to help and motivate with your studies.
-Currently, two-user-mode is supported.
-I own these characters and the art.
-Who would you pick among these sisters and why? (I think Kagura is prettier :3)
+Kagura and Miko sisters are my original characters and the purpose of these sisters is to help and motivate with your studies.  
+Currently, two-user-mode is supported.  
+I own these characters and the art.  
+Who would you pick among these sisters and why? (I think Kagura is prettier :3)  
 ************************************************************************
 ## Kagura
 Say *Hello* to Kagura and she will respond you. :wave:  
