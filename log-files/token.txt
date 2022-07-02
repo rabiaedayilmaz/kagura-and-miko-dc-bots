@@ -1,0 +1,1 @@
+There should be two unique token files for each bot.
